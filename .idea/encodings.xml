@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DAY_246_21_AUG_BE_Intro_to_Backend_Module_Version_Control/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_246_21_AUG_BE_Intro_to_Backend_Module_Version_Control/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_247_23_AUG_BE_Linux_Command_Line_and_Dev_Env_Setup_Project_Overview/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_247_23_AUG_BE_Linux_Command_Line_and_Dev_Env_Setup_Project_Overview/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_248_25_AUG_BE_Introduction_to_Spring_Boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_248_25_AUG_BE_Introduction_to_Spring_Boot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_250_28_AUG_BE_Introduction_to_Spring_Boot_Project_Overview/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_250_28_AUG_BE_Introduction_to_Spring_Boot_Project_Overview/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_252_1_SEP_BE_Building_Integrating_REST_APIs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_252_1_SEP_BE_Building_Integrating_REST_APIs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_253_4_SEP_BE_Implementing_APIs_and_Calling_APIs_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_253_4_SEP_BE_Implementing_APIs_and_Calling_APIs_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_255_6_SEP_BE_APIs_3_Implementing_APIs_handling_exceptions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_255_6_SEP_BE_APIs_3_Implementing_APIs_handling_exceptions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_256_8_SEP_BE_Finishing_APIs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_256_8_SEP_BE_Finishing_APIs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_257_11_SEP_Backend_Development_Neovarsity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_257_11_SEP_Backend_Development_Neovarsity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_259_11_SEP_BE_Advanced_Database_Operations_and_DB_Migrations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_259_11_SEP_BE_Advanced_Database_Operations_and_DB_Migrations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_261_15_SEP_BE_DB_Queries_Inheritance_Relations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_261_15_SEP_BE_DB_Queries_Inheritance_Relations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_264_18_SEP_BE_Authentication_and_Middlewares/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_264_18_SEP_BE_Authentication_and_Middlewares/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_265_20_SEP_BE_Implementing_Search_Paging_Sorting_ElasticSearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_265_20_SEP_BE_Implementing_Search_Paging_Sorting_ElasticSearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_266_22_SEP_BE_Creating_Payment_Microservice_Cron_and_Webhooks/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_266_22_SEP_BE_Creating_Payment_Microservice_Cron_and_Webhooks/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_267_25_SEP_BE_Integrating_Message_Queue_Kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_267_25_SEP_BE_Integrating_Message_Queue_Kafka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_268_27_SEP_BE_Integrating_NoSQL_database_MongoDB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_268_27_SEP_BE_Integrating_NoSQL_database_MongoDB/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_269_29_SEP_BE_Integrating_Cache_Redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_269_29_SEP_BE_Integrating_Cache_Redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_270_2_OCT_BE_Logging_and_monitoring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_270_2_OCT_BE_Logging_and_monitoring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_271_4_OCT_BE_Dockerizing_Applications/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_271_4_OCT_BE_Dockerizing_Applications/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_272_6_OCT_BE_Deploying_Applications_to_AWS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_272_6_OCT_BE_Deploying_Applications_to_AWS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_273_9_OCT_BE_Auto_Scaling_CI_CD_More_AWS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DAY_273_9_OCT_BE_Auto_Scaling_CI_CD_More_AWS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

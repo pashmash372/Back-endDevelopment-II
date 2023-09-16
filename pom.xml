@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>Back-end-Development-II</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>DAY_246_21_AUG_BE_Intro_to_Backend_Module_Version_Control</module>
+        <module>DAY_247_23_AUG_BE_Linux_Command_Line_and_Dev_Env_Setup_Project_Overview</module>
+        <module>DAY_248_25_AUG_BE_Introduction_to_Spring_Boot</module>
+        <module>DAY_250_28_AUG_BE_Introduction_to_Spring_Boot_Project_Overview</module>
+        <module>DAY_252_1_SEP_BE_Building_Integrating_REST_APIs</module>
+        <module>DAY_253_4_SEP_BE_Implementing_APIs_and_Calling_APIs_1</module>
+        <module>DAY_255_6_SEP_BE_APIs_3_Implementing_APIs_handling_exceptions</module>
+        <module>DAY_256_8_SEP_BE_Finishing_APIs</module>
+        <module>DAY_257_11_SEP_Backend_Development_Neovarsity</module>
+        <module>DAY_259_11_SEP_BE_Advanced_Database_Operations_and_DB_Migrations</module>
+        <module>DAY_261_15_SEP_BE_DB_Queries_Inheritance_Relations</module>
+        <module>DAY_264_18_SEP_BE_Authentication_and_Middlewares</module>
+        <module>DAY_265_20_SEP_BE_Implementing_Search_Paging_Sorting_ElasticSearch</module>
+        <module>DAY_266_22_SEP_BE_Creating_Payment_Microservice_Cron_and_Webhooks</module>
+        <module>DAY_267_25_SEP_BE_Integrating_Message_Queue_Kafka</module>
+        <module>DAY_268_27_SEP_BE_Integrating_NoSQL_database_MongoDB</module>
+        <module>DAY_269_29_SEP_BE_Integrating_Cache_Redis</module>
+        <module>DAY_270_2_OCT_BE_Logging_and_monitoring</module>
+        <module>DAY_271_4_OCT_BE_Dockerizing_Applications</module>
+        <module>DAY_272_6_OCT_BE_Deploying_Applications_to_AWS</module>
+        <module>DAY_273_9_OCT_BE_Auto_Scaling_CI_CD_More_AWS</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
