@@ -90,8 +90,15 @@ https://www.interviewbit.com/problems/pretty-json/?_gl=1*6dwbl2*_ga*MTI0MTk0NjM4
 
 https://interviewbit.typeform.com/to/RobW8QEc?typeform-source=www.scaler.com
 
+https://www.digitalocean.com/community/tutorials/markdown-markdown-images
+
 https://www.baeldung.com/hibernate-inheritance
 
 https://uuid.ramsey.dev/en/stable/rfc4122/version7.html
 
+https://mvnrepository.com/
+
+https://media.licdn.com/dms/image/C4E12AQFPgq3VRNjVsA/article-cover_image-shrink_720_1280/0/1639975062782?e=2147483647&v=beta&t=eVqnsS-Y4P0FYvYalkXDcOTzIfl_TBBsEtikqJlKhX4
+
+https://hibernate.org/orm/
 -----------------------

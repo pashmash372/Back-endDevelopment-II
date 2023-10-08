@@ -20,16 +20,8 @@
         <module>DAY_257_11_SEP_Backend_Development_Neovarsity</module>
         <module>DAY_259_11_SEP_BE_Advanced_Database_Operations_and_DB_Migrations</module>
         <module>DAY_261_15_SEP_BE_DB_Queries_Inheritance_Relations</module>
-        <module>DAY_264_18_SEP_BE_Authentication_and_Middlewares</module>
-        <module>DAY_265_20_SEP_BE_Implementing_Search_Paging_Sorting_ElasticSearch</module>
-        <module>DAY_266_22_SEP_BE_Creating_Payment_Microservice_Cron_and_Webhooks</module>
-        <module>DAY_267_25_SEP_BE_Integrating_Message_Queue_Kafka</module>
-        <module>DAY_268_27_SEP_BE_Integrating_NoSQL_database_MongoDB</module>
-        <module>DAY_269_29_SEP_BE_Integrating_Cache_Redis</module>
-        <module>DAY_270_2_OCT_BE_Logging_and_monitoring</module>
-        <module>DAY_271_4_OCT_BE_Dockerizing_Applications</module>
-        <module>DAY_272_6_OCT_BE_Deploying_Applications_to_AWS</module>
-        <module>DAY_273_9_OCT_BE_Auto_Scaling_CI_CD_More_AWS</module>
+        <module>Day_264_BE_Database_Representing_Cardinalities_Fetch_Types</module>
+        <module>Day_266_BE_N_plus_1_Problem_Fetch_Type_Fetch_Modes</module>
     </modules>
 
     <properties>

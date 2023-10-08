@@ -86,6 +86,28 @@ https://www.baeldung.com/spring-rest-api-with-protocol-buffers
 
 https://www.interviewbit.com/problems/pretty-json/?_gl=1*6dwbl2*_ga*MTI0MTk0NjM4NC4xNjk0ODY1OTgw*_ga_53S71ZZG1X*MTY5NDg3NTk2Ny4zLjEuMTY5NDg3NjM2NS4wLjAuMA..
 
-grpc and rpc would done on microservices classes 
+-----------------------
+
+https://interviewbit.typeform.com/to/RobW8QEc?typeform-source=www.scaler.com
+
+https://www.baeldung.com/hibernate-inheritance
+
+https://uuid.ramsey.dev/en/stable/rfc4122/version7.html
 
 -----------------------
+
+
+https://stackoverflow.com/questions/40105044/inject-spring-bean-dynamically
+
+https://www.baeldung.com/hibernate-lazy-eager-loading
+
+https://www.baeldung.com/hibernate-inheritance
+
+
+-----------------------
+
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#appendix.query.method.subject
+
+https://github.com/Naman-Bhalla/productservice
+
+https://www.baeldung.com/jpa-cascade-types
