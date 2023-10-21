@@ -113,3 +113,13 @@ https://github.com/Naman-Bhalla/productservice
 https://www.baeldung.com/jpa-cascade-types
 
 https://hackernoon.com/ good site remember it
+
+-----------------------------------
+
+https://github.com/Naman-Bhalla/productservice
+
+https://twitter.com/Naman_Bhalla/status/1637578019811340292
+
+https://mvnrepository.com/
+
+https://github.com/mattermost/mattermost/tree/1e121eb7f3c953c2fa43bc0ab39ce1b58ce0b945/server/channels/db/migrations/postgres

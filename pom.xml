@@ -22,6 +22,7 @@
         <module>DAY_261_15_SEP_BE_DB_Queries_Inheritance_Relations</module>
         <module>Day_264_BE_Database_Representing_Cardinalities_Fetch_Types</module>
         <module>Day_266_BE_N_plus_1_Problem_Fetch_Type_Fetch_Modes</module>
+        <module>Day_267_BE_Unit_Testing_1</module>
     </modules>
 
     <properties>
