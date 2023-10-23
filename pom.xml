@@ -24,6 +24,7 @@
         <module>Day_266_BE_N_plus_1_Problem_Fetch_Type_Fetch_Modes</module>
         <module>Day_267_BE_Unit_Testing_1</module>
         <module>Day_268_BE_Unit_Testing_2</module>
+        <module>Day_275_BE_Intro_to_Mocking_WebMvcMock</module>
     </modules>
 
     <properties>
