@@ -25,6 +25,8 @@
         <module>Day_267_BE_Unit_Testing_1</module>
         <module>Day_268_BE_Unit_Testing_2</module>
         <module>Day_275_BE_Intro_to_Mocking_WebMvcMock</module>
+        <module>Day_276_BE_Testing_Final</module>
+        <module>Day_278_BE_Authentication_1_JWTs_OAuth_Auth_vs_Auth</module>
     </modules>
 
     <properties>
