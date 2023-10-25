@@ -27,6 +27,7 @@
         <module>Day_275_BE_Intro_to_Mocking_WebMvcMock</module>
         <module>Day_276_BE_Testing_Final</module>
         <module>Day_278_BE_Authentication_1_JWTs_OAuth_Auth_vs_Auth</module>
+        <module>Day_279_BE_Login_Flow_Password_Encoding_User_Service_Kickstart</module>
     </modules>
 
     <properties>

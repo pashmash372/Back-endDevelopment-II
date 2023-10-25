@@ -164,3 +164,10 @@ https://chat.whatsapp.com/ICoTygzTib2FLASKmXIFcG
 https://jwt.io/
 
 https://myaccount.google.com/connections?pli=1
+
+
+-----------------------------------------------------
+
+https://en.wikipedia.org/wiki/Bcrypt
+
+https://haveibeenpwned.com/
